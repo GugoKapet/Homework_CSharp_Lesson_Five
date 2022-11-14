@@ -8,7 +8,7 @@ Console.WriteLine();
 int maxValue = MaxNumber(m);
 int minValue = MinNumber(m);
 int difBetweenMaxAndMin = maxValue - minValue;
-Console.WriteLine($"Разница между максимальным и минимальным элементов массива: {difBetweenMaxAndMin}");
+Console.WriteLine($"Разница между максимальным и минимальным элементами массива: {difBetweenMaxAndMin}");
 
 void FillArray(int[] a)
 {
